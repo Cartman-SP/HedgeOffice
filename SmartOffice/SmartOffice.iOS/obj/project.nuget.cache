@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NmfF2r5HdlpKkjRKKJ29ZlC6m0H7UdVbdTuqwaaBkzPFqZU/uxbjxEmz6Nifr8g0waAeY7+3R2SEsM8xZVLpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danii\\source\\repos\\HedgeOffice\\SmartOffice\\SmartOffice.iOS\\SmartOffice.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danii\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Danii\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Danii\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
